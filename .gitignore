@@ -120,6 +120,6 @@ dmypy.json
 .pyre/
 
 # venv
-myvenv/
+myvenv
 
 # End of https://www.gitignore.io/api/django
